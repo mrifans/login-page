@@ -1,0 +1,8 @@
+html, body, .container {
+    height: 100%;
+}
+
+.form-login{
+    width: 350px;
+    padding: 2rem 2rem 1rem;
+}
